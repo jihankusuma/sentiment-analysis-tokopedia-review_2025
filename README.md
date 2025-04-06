@@ -4,8 +4,6 @@ The primary objective of developing this sentiment analysis project is to fulfil
 
 Additionally, this project was built using **Jupyter Notebook** and **Python** to demonstrate real-world application of **Natural Language Processing (NLP)** and supervised machine learning in understanding public perception of the **Tokopedia mobile application** through user reviews.
 
-The analysis starts from scraping user reviews directly from the Tokopedia app, followed by data preprocessing, modeling, and evaluation stages.
-
 ---
 
 ## 🏗️ Project Structure:
@@ -94,4 +92,16 @@ jupyter notebook
 - Understand public sentiment towards Tokopedia through app reviews  
 - Apply NLP techniques to clean and prepare real-world text data  
 - Train a supervised machine learning model for sentiment classification  
-- Evaluate the model's performance using metrics such as accuracy and F1-score  
+- Evaluate the model's performance using metrics such as accuracy and F1-score
+
+---
+
+## 👩‍💻 About the Author
+
+**Jihan Kusumawardhani : MC361D5X2092**  
+
+📫 Feel free to connect with me:  
+- 🌐 [LinkedIn – Jihan Kusumawardhani](https://www.linkedin.com/in/jihan-kusumawardhani-b43aaa343/)  
+- 📧 Email: jihankusumawwardhani@gmail.com  
+
+---
