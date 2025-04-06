@@ -101,7 +101,7 @@ jupyter notebook
 **Jihan Kusumawardhani : MC361D5X2092**  
 
 📫 Feel free to connect with me:  
-- 🌐 [LinkedIn – Jihan Kusumawardhani](https://www.linkedin.com/in/jihan-kusumawardhani-b43aaa343/)  
+- 🌐 LinkedIn: [Jihan Kusumawardhani](https://www.linkedin.com/in/jihan-kusumawardhani-b43aaa343/)  
 - 📧 Email: jihankusumawwardhani@gmail.com  
 
 ---
