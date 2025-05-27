@@ -2,7 +2,7 @@
 
 The primary objective of developing this sentiment analysis project is to fulfill the final capstone requirements of the **Machine Learning Development learning path** provided by **Dicoding**.  
 
-Additionally, this project was built using **Jupyter Notebook** and **Python** to demonstrate real-world application of **Natural Language Processing (NLP)** and supervised machine learning in understanding public perception of the **Tokopedia mobile application** through user reviews.
+Additionally, this project was built using **Google Collab** and **Python** to demonstrate real-world application of **Natural Language Processing (NLP)** and supervised machine learning in understanding public perception of the **Tokopedia mobile application** through user reviews.
 
 ---
 
